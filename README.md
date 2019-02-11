@@ -10,11 +10,11 @@ Add it to your Libraries in Sketch.
 
 ### How do I do that?
 
-You can add this library by going to Sketch > Preferences > Libraries then locating the Sketch file on you local machine.
+You can add this library via **Sketch > Preferences > Libraries** by using the **Add Library** button.
 
 ## How do I use this library?
 
-You can access the symbols by clicking **Insert** and navigating to the ONS-Sketch-Library, under **Symbols**.
+You can access the symbols by clicking **Insert** and navigating to the **ONS-Sketch-Library**.
 
 ## Things to be aware of:
 
