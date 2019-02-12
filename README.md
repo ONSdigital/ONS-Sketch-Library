@@ -1,4 +1,4 @@
-# ONS-Sketch-Library-v1.1
+# ONS-Sketch-Library
 
 ## Firstly, what is Sketch? 
 
