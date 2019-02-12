@@ -27,3 +27,12 @@ You may notice that other symbols like Accordions are in a closed state. You can
 ## Contact
 
 If you require any help, notice any issues or have any recommendations please contact Dan on: **dan.butterworth@ons.gov.uk**
+
+---
+
+# Change log 
+
+## v1.1 (12th Feb 2019)
+
+> Adjusted resizing of a number of components (some will have to be detached from symbols)
+> Create new text style for centre aligned text
