@@ -34,5 +34,5 @@ If you require any help, notice any issues or have any recommendations please co
 
 ## v1.1 (12th Feb 2019)
 
-> Adjusted resizing of a number of components (some will have to be detached from symbols)
-> Create new text style for centre aligned text
+1. Adjusted resizing of a number of components (some will have to be detached from symbols)
+2. Create new text style for centre aligned text
