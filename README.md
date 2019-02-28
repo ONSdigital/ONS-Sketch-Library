@@ -4,11 +4,7 @@
 
 Sketch is an application used to mock up wireframes and click through prototypes. You can download [Sketch here](https://www.sketchapp.com/get/).
 
-## OK, now what?
-
-Add it to your Libraries in Sketch.
-
-### How do I do that?
+## Add the library to Sketch
 
 You can add this library via **Sketch > Preferences > Libraries** by using the **Add Library** button.
 
