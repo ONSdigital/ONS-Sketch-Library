@@ -28,6 +28,11 @@ If you require any help, notice any issues or have any recommendations please co
 
 # Change log 
 
+## v1.2 (7th Mar 2019)
+
+1. Created symbols for white and blue header alternatives
+2. Added blue header navigation bar to page template
+
 ## v1.1 (12th Feb 2019)
 
 1. Adjusted resizing of a number of components (some will have to be detached from symbols)
